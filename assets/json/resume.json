@@ -1,24 +1,29 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Brian Batchelor",
+    "label": "Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "brian.batchelor@sandboxdev.io",
+    "phone": "",
+    "url": "https://bkbatchelor.github.io",
+    "summary": "I have over 12+ years of experience as a software developer and team leader. I have successfully developed banking, healthcare, and insurance products. My work experience includes Java SE, J2EE, Spring Boot, Spring Microservices, Groovy, SQL, JUnit, AWS, Docker, Restful API design, TDD, Mockito, WireMock API, Log4j2 API, Splunk, ServiceNow, Git, Apache Maven, Jenkins, Agile, and Scrum. Additionally, I am familiar with Python, Extreme Programming, and Paired Programming.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Freehold",
       "countryCode": "US",
-      "region": "California"
+      "region": "New Jersey"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Github",
+        "username": "bkbatchelor",
+        "url": "https://github.com/bkbatchelor"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "bkbatchelor",
+        "url": "https://www.linkedin.com/in/bkbatchelor/"
       }
     ]
   },
