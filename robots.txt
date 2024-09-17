@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bkbatchelor.github.io/nonverbose/sitemap.xml
+Sitemap: https://bkbatchelor.github.io/bkbatchelor.github.io/sitemap.xml
