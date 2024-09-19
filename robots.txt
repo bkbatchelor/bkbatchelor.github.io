@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bkbatchelor.github.io/sitemap.xml
+Sitemap: https://sandboxdev.io/sitemap.xml
