@@ -511,13 +511,13 @@ footer.sticky-bottom {
 
 .header-bar {
   border-bottom: 1px solid var(--global-divider-color);
-  text-align: center;
+  text-align: left;
   padding-top: 2rem;
   padding-bottom: 3rem;
 
   h1 {
     color: var(--global-theme-color);
-    font-size: 5rem;
+    font-size: 2.5rem;
   }
 }
 
@@ -870,6 +870,12 @@ html.transition *:after {
 
 // Extra Markdown style (post Customization)
 .post {
+  .post-header {
+    h1 {
+      color: var(--global-theme-color);
+      font-size: 2.5rem;
+    }
+  }
   .post-meta {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
