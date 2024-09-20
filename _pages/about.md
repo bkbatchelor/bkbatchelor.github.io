@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: SandboxDev.io
+subtitle: SandboxDev LLC
 
 profile:
   align: right
