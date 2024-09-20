@@ -1,8 +1,7 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
-subtitle: SandboxDev LLC
 
 profile:
   align: right
